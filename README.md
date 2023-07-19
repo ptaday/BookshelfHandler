@@ -53,8 +53,8 @@ $ cd RipOffRental
  To compile and run the code locally
 
 ```bash
-$ javac Main.java 
-$ java Main
+$ javac RipOffRental.java 
+$ java RipOffRental
 ```
 Follow the prompts in the command-line interface to interact with the warehouse management system. The system will guide you through adding new books, loaning books, duplicating textbooks, organizing shelves, and more.
 
