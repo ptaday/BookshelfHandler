@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework1;
 
 /**
  * This class represents a book which has a title, author, borrower and condition.
