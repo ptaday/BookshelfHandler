@@ -1,10 +1,3 @@
-/**
- * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
- */
-
-package Homework1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
