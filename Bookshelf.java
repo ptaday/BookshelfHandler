@@ -1,10 +1,7 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
-package Homework1;
 
 /**
  *This class represents a bookshelf which has array of books and the count of books.
