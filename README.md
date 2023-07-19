@@ -60,6 +60,8 @@ Follow the prompts in the command-line interface to interact with the warehouse 
 
 Please note that the interface will match the specifications and guidelines provided in the project description.
 
+Keep in my mind to create a package name and include the package name in all the classes.
+
 ## Contribution
 
 Contributions to the RipOffRental project are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Please read CONTRIBUTING.md for details.
